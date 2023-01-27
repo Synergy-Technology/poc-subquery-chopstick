@@ -10,4 +10,7 @@ Having a blockchain which closely replicate the actual blockchain will be a grea
 Using the Chopstick, we can test the subquery in a much faster way.
 
 
-# How ? 
+# How ?
+
+1. Containerize the chopstick
+2. Test the subquery using the chopstick

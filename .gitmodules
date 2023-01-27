@@ -1,0 +1,3 @@
+[submodule "chopsticks"]
+	path = chopsticks
+	url = https://github.com/AcalaNetwork/chopsticks.git
